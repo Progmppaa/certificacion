@@ -1,4 +1,4 @@
-<div class="row">
+<div class="row mb">
     <div class="col-12">
         <img src="{{ asset('material') }}/img/logo_minaguas.png" alt="MINAGUAS" width="180px">
     </div>
