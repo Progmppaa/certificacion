@@ -32,7 +32,7 @@
                         </table>
                     </div>
                     <p class="mx-auto mb-0">
-                        <b>Este documento fue emitido y esta certificado por MINAGUAS.</b>
+                        <b>Este documento fue emitido y esta certificado por el Ministerio del Poder Popular de Atención de las Aguas.</b>
                     </p>
                 </div>
             @else
