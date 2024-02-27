@@ -4,7 +4,7 @@
     </div>
 </div>
 
-<div class="container bg-danger" style="height: auto;">
+<div class="container" style="height: auto;">
     <div class="row justify-content-center p-0">
         <div class="col-lg-7 col-md-8 pt-0">
             @if ($data != null)

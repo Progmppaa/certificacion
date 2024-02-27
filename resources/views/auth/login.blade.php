@@ -12,7 +12,7 @@
         <div class="card card-login card-hidden mb-3">
           <div class="card-header card-header-info text-center">
             <div class="social-line">
-              <img src="{{ asset('material') }}/img/favicon.png" alt="Venempren" class="w-50">
+              <img src="{{ asset('material') }}/img/favicon.png" alt="Venempren" class="w-75">
             </div>
             <h4 class="card-title mt-2"><strong>{{ __('Inicio de Sesión') }}</strong></h4>
           </div>
